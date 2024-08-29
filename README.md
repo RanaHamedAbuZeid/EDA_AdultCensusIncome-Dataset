@@ -26,9 +26,3 @@ The dashboard visualizes data related to income distribution and demographic pro
 - **Pie Chart**: Shows the distribution of different races.
 - **Horizontal Histogram**: Illustrates the distribution of a selected feature.
 
-### Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
